@@ -16,7 +16,9 @@ python==3.6.13
 ```python
 python p3.py
 ```
-Environment models and pretrained weights can be found in the folder "src/models" and "src/models_params", respectively.
+
+## Notes
+Pretrained environment models and behaviour cloning policies can be downloaded via [Google Drive](https://drive.google.com/file/d/1FMEKlmO8rGYS8-qsKHzOAsL4bsz-Os_j/view?usp=share_link).
 
 ## Acknowledgement
 We appreciate the open source of the following projects:
