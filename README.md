@@ -20,6 +20,19 @@ python p3.py
 ## Notes
 Pretrained environment models and behaviour cloning policies can be downloaded via [Google Drive](https://drive.google.com/file/d/1FMEKlmO8rGYS8-qsKHzOAsL4bsz-Os_j/view?usp=share_link).
 
+## Citing P3
+If you use the code in P3, please kindly cite our paper using following BibTeX entry.
+```
+@inproceedings{
+yang2022pareto,
+title={Pareto Policy Pool for Model-based Offline Reinforcement Learning},
+author={Yijun Yang and Jing Jiang and Tianyi Zhou and Jie Ma and Yuhui Shi},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=OqcZu8JIIzS}
+}
+```
+
 ## Acknowledgement
 We appreciate the open source of the following projects:
 
